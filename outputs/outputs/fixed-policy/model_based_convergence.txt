@@ -1,0 +1,9 @@
+seed 11, 100 games: model-based sweeps=6, final change=0.00e+00, converged=True, states with missing successor estimate=0, states visited=96
+seed 11, 1000 games: model-based sweeps=12, final change=2.20e-10, converged=True, states with missing successor estimate=0, states visited=243
+seed 11, 10000 games: model-based sweeps=11, final change=3.41e-07, converged=True, states with missing successor estimate=0, states visited=280
+seed 22, 100 games: model-based sweeps=6, final change=0.00e+00, converged=True, states with missing successor estimate=0, states visited=116
+seed 22, 1000 games: model-based sweeps=10, final change=5.02e-07, converged=True, states with missing successor estimate=0, states visited=245
+seed 22, 10000 games: model-based sweeps=11, final change=9.14e-08, converged=True, states with missing successor estimate=0, states visited=280
+seed 33, 100 games: model-based sweeps=5, final change=0.00e+00, converged=True, states with missing successor estimate=0, states visited=118
+seed 33, 1000 games: model-based sweeps=11, final change=1.29e-07, converged=True, states with missing successor estimate=0, states visited=247
+seed 33, 10000 games: model-based sweeps=11, final change=1.82e-07, converged=True, states with missing successor estimate=0, states visited=280
